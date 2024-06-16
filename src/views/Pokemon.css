@@ -1,0 +1,17 @@
+#Resultado {
+  display: flex;
+}
+#contenido {
+  text-align: center;
+  font-size: medium;
+  width: 50%;
+  align-content: center;
+}
+
+#imagen {
+  width: 50%;
+}
+
+img {
+  width: 100%;
+}
